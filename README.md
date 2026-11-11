@@ -33,7 +33,7 @@ npm run dev      # builds the site and opens a preview at http://localhost:8080
 npm run admin    # opens the article editor at http://localhost:4000
 ```
 
-## 2. First settings (`site.config.json`)
+# 2. First settings (`site.config.json`)
 
 - `url`: your public address, e.g. `https://hikmat-ki-baat.pages.dev` (no trailing slash). **Required** for a correct sitemap and canonical links.
 - `email`: your real contact email (shown on About, Contact and policy pages).
