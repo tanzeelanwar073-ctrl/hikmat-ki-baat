@@ -1,0 +1,24 @@
+{
+  "name": "حکمت کی بات",
+  "nameLatin": "Hikmat Ki Baat",
+  "tagline": "دانائی، سکون اور رہنمائی",
+  "description": "اردو میں اصلی، مفید اور مطالعہ کے قابل مضامین: زندگی کے سبق، اسلامی حکمت، فلسفہ، رشتے، کامیابی، نفسیات اور مثبت سوچ۔",
+
+  "url": "",
+
+  "email": "contact@example.com",
+  "author": { "name": "ادارہ حکمت کی بات", "type": "Organization" },
+
+  "googleAnalyticsId": "",
+  "searchConsoleVerification": "",
+
+  "adsense": {
+    "publisherId": "",
+    "slots": { "top": "", "inArticle": "", "sidebar": "", "bottom": "", "home": "" }
+  },
+
+  "formspreeId": "",
+  "facebookPage": "",
+
+  "articlesPerPage": 12
+}
