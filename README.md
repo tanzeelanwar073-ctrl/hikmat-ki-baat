@@ -9,7 +9,7 @@ A complete, free, fast Urdu (RTL) article website. No database, no paid service,
 - Pages are pre-built HTML, so they load fast and Google can crawl them easily.
 - Hosting is free and there is no server to hack or maintain.
 - Articles are simple text files. You write them in a local editor (`npm run admin`) that works like a mini CMS.
-- Zero dependencies means nothing breaks when packages change.
+- Zero dependencies means nothing breaks when packages change .
 
 ### What works immediately vs. what needs setup
 
